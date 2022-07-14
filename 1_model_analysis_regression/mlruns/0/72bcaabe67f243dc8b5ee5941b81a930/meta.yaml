@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shree/projects/ML_Monitoring/model_analysis/1_model_analysis_regression/mlruns/0/72bcaabe67f243dc8b5ee5941b81a930/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 72bcaabe67f243dc8b5ee5941b81a930
+run_uuid: 72bcaabe67f243dc8b5ee5941b81a930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1657726499392
+status: 1
+tags: []
+user_id: shree
